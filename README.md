@@ -1,2 +1,3 @@
 # codingground
-madan
+
+Random solutions of spoj problems
